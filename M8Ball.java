@@ -3,6 +3,7 @@
 * Date: 8/19/22
 *
 * M8Ball is for public use and shall not be sold by any individual/company, the purpose is only to demonstrate. Just simply enjoy and ask away.
+* Please also read the README.md file as it has the instructions for use.
 */
 
 import java.util.Scanner;
