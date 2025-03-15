@@ -11,7 +11,7 @@ import java.util.Random;
 import java.util.InputMismatchException;
 
 public class M8Ball {
-   public static boolean hasQuestion;
+   private static boolean hasQuestion;
 
    public static void main(String[] args){
 
